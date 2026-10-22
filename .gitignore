@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+.env
+data/raw/*.csv
+data/processed/
+*.parquet
+*.joblib
+*.pkl
+.ipynb_checkpoints/
